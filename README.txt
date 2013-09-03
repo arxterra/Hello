@@ -1,1 +1,3 @@
-do something right!!!
+Arxterra is about building telerobotic communities to bring people together and create a forum for ingenuity and artistic expression. The first step to creating a robotic community is to design open source, low cost robots and a cloud based eco-system in which they can live.
+   Our current design is our own RObot SCOut or Rosco which is based on the Android/Arduino platforms. This rover can be 3d printed and built for under $200 sans smart phone. A quick download of our Arxrobot app and you will be connected to our servers bringing you together with robots from all over the world to build, create, and explore.
+  Complete bill of materials and documentation can be found at www.arxterra.com
